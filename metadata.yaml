@@ -1,0 +1,39 @@
+_repo: The-Marchioness-of-Brinvilliers-the-poisoner-of-the-seventeenth-century-b-A-romance-of-old-Pa__73516
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: https://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+creator:
+  author:
+    agent_name: Smith, Albert
+    birthdate: 1816
+    deathdate: 1860
+    gutenberg_agent_id: '49224'
+    url: http://www.gutenberg.org/2009/agents/49224
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Richard_Smith
+description: ''
+gutenberg_issued: '2024-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73516'
+language: en
+pgterms:marc904: https://books.google.com/books?id=wx_QAAAAMAAJ
+pgterms:marc905: 20240429131409smith
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bRichard Bentley & Son, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Marchioness of Brinvilliers, the poisoner of the seventeenth century :
+  $b A romance of old Paris'
+url: http://www.gutenberg.org/ebooks/73516
