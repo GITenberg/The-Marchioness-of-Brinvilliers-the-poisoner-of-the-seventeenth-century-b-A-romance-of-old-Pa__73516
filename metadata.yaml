@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: https://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 73516-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Albert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49224
     wikipedia: https://en.wikipedia.org/wiki/Albert_Richard_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73516#The-Marchioness-of-Brinvilliers-the-poisoner-of-the-seventeenth-century-b-A-romance-of-old-Pa_
 gutenberg_issued: '2024-05-02'
 gutenberg_type: Text
 identifiers:
